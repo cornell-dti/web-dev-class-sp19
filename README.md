@@ -18,7 +18,7 @@ You can see an example of a past lecture [here](https://drive.google.com/open?id
 This course will be covering both client-facing and server-side technologies. INFO/CS 1300, or equivalent experience with HTML & CSS, is a pre-requisite.
 
 ## When is it?
-The first class meeting will (tentatively) be Wednesday, February 20th. This course will be held Wednesday evenings from 8:35 - 9:25 PM, room TBA.
+The first class meeting will (tentatively) be Wednesday, February 20th and end on Wednesday, May 1st. This course will be held Wednesday evenings from 8:35 - 9:25 PM, room TBA.
 
 ## Where does it meet?
 Room TBA
