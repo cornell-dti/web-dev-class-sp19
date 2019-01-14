@@ -10,7 +10,7 @@ This class will teach students about modern web development technologies, practi
 ## What will be taught?
 By the end of the course, students will be have a much more in-depth understanding of JavaScript as it pertains to many common software libraries used in web development. These libraries include (but are not limited to) React, Webpack, Node.js, NPM, Express, PostgreSQL, and Google App Engine. The exact technologies can shift from semester to semester as demands from students, and in the industry, evolve and change. What is in demand now may not be desired in two years from now. The primary technologies that this class is powered by can shift from semester to semester to reflect what employers are looking for.
 
-Throughout this course, students will work as individuals and in groups to apply these skills to projects. These are both skills that are extremely important to employers: being able to function independently on assigned tasks, and being able to collaborate with different people on a wide variety of tasks. The idea is to closely resemble milestones and checkpoints in project development, which occur with one to many people. The course will culminate with students being able to showcase their semester-long project to each other, and to members of the Cornell Design & Tech Initiative project team.
+Throughout this course, students will work as individuals and in groups to apply these skills to projects. These are both skills that are extremely important to employers: being able to function independently on assigned tasks, and being able to collaborate with different people on a wide variety of tasks. The idea is to closely resemble milestones and checkpoints in project development, which occur with one to many people.
 
 You can see an example of a past lecture [here](https://drive.google.com/open?id=1Ysm3deN2tHxK06fZqjK5Z47toehK1RrO7PYKkwzYfCU).
 
@@ -37,7 +37,7 @@ Two credits S/U.
 As a programming course, you may find yourself in a position to copy or appropriate code that someone else has written. Please cite any code or media that you do not have direct authorship of on any assignments submitted to the course. Code should receive a citation to the original author as a comment in your source code, while media citations (images, videos) should be visible on the page that they appear.
 
 ### Accessibility
-We seek to make this class as inclusive as possible for all students. All lectures will be video recorded for instructor use only. If you have accomodations with Student Disability Services and require access to these recordings, or any other class accommodations, please speak to an instructor and we will work with you to make arrangements as necessary.
+We seek to make this class as inclusive as possible for all students. All lectures will be video recorded for instructor use only. If you have accomodations with Student Disability Services and require access to these recordings, or any other class accommodations, please speak to an instructor before the first lecture and we will work with you to make arrangements as necessary.
 
 ### Cell Phones
 Cell phones are distracting to you, people around you, and instructors. If you plan on taking this course and sitting in lectures on your phone and not paying attention, you may be asked to leave. Please be respectful of other people.
