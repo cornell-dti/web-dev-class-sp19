@@ -2,7 +2,7 @@
 [Cornell DTI](http://cornelldti.org/). Read our article about the first run of the course on [Medium](https://medium.com/cornell-design-tech-initiative/cornell-dti-trends-in-web-development-4cb5abc56776)!
 
 ## Course Application
-### Applications are not yet open. Check back soon, or email acb352@cornell.edu to be emailed when applications do open up!
+[Apply here](https://goo.gl/forms/W1jGzF10id2fwME73) by February 11th 2019!
 
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
