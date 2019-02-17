@@ -7,6 +7,19 @@
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
 
+## Is there a syllabus?
+Yes! 
+Lecture 1 2/20/19: Introduction
+Lecture 2 2/27/19: Developing within the Node Ecosystem
+Lecture 3 3/06/19: APIs and web servers with Express
+Lecture 4 : Front-End with React 
+Lecture 5: Front-End + Back-End
+Lecture 6: Front-End + Back-End Continued
+Lecture 7: Databases
+Lecture 8: Databases Continued & Deployment to Heroku 
+Lecture 9: Student Choice 
+Lecture 10: Buffer Week, Present Final Projects, Possible QA Panel
+
 ## What will be taught?
 By the end of the course, students will be have a much more in-depth understanding of JavaScript as it pertains to many common software libraries used in web development. These libraries include (but are not limited to) React, Webpack, Node.js, NPM, Express, PostgreSQL, and Google App Engine. The exact technologies can shift from semester to semester as demands from students, and in the industry, evolve and change. What is in demand now may not be desired in two years from now. The primary technologies that this class is powered by can shift from semester to semester to reflect what employers are looking for.
 
