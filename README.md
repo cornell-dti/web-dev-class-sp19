@@ -2,23 +2,33 @@
 [Cornell DTI](http://cornelldti.org/). Read our article about the first run of the course on [Medium](https://medium.com/cornell-design-tech-initiative/cornell-dti-trends-in-web-development-4cb5abc56776)!
 
 ## Course Application
-[Apply here](https://goo.gl/forms/W1jGzF10id2fwME73) by February 15th 2019!
+Now closed.
 
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
 
 ## Is there a syllabus?
-Yes! 
+Yes!
+
 Lecture 1 2/20/19: Introduction
+
 Lecture 2 2/27/19: Developing within the Node Ecosystem
+
 Lecture 3 3/06/19: APIs and web servers with Express
-Lecture 4 : Front-End with React 
-Lecture 5: Front-End + Back-End
-Lecture 6: Front-End + Back-End Continued
-Lecture 7: Databases
-Lecture 8: Databases Continued & Deployment to Heroku 
-Lecture 9: Student Choice 
-Lecture 10: Buffer Week, Present Final Projects, Possible QA Panel
+
+Lecture 4 3/13/19: Front-End with React 
+
+Lecture 5 3/20/19: Front-End + Back-End
+
+Lecture 6 3/27/19: Front-End + Back-End Continued
+
+Lecture 7 4/10/19: Databases
+
+Lecture 8 4/17/19: Databases Continued & Deployment to Heroku 
+
+Lecture 9 4/24/18: Student Choice 
+
+Lecture 10 5/01/19: Buffer Week, Present Final Projects, Possible QA Panel
 
 ## What will be taught?
 By the end of the course, students will be have a much more in-depth understanding of JavaScript as it pertains to many common software libraries used in web development. These libraries include (but are not limited to) React, Webpack, Node.js, NPM, Express, PostgreSQL, and Google App Engine. The exact technologies can shift from semester to semester as demands from students, and in the industry, evolve and change. What is in demand now may not be desired in two years from now. The primary technologies that this class is powered by can shift from semester to semester to reflect what employers are looking for.
@@ -31,10 +41,10 @@ You can see an example of a past lecture [here](https://drive.google.com/open?id
 This course will be covering both client-facing and server-side technologies. INFO/CS 1300, or equivalent experience with HTML & CSS, is a pre-requisite.
 
 ## When is it?
-The first class meeting will (tentatively) be Wednesday, February 20th and end on Wednesday, May 1st. This course will be held Wednesday evenings from 8:35 - 9:25 PM, room TBA.
+The first class meeting will (tentatively) be Wednesday, February 20th and end on Wednesday, May 1st. This course will be held Wednesday evenings from 8:35 - 9:25 PM, Gates G01.
 
 ## Where does it meet?
-Room TBA
+Gates G01
 
 ## What is the expected workload?
 Students should expect to work anywhere from 5-6 hours per week in this course.
