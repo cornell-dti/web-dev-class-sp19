@@ -55,6 +55,13 @@ You are free to use whichever text editor or programming IDE of your choice. How
 ## How many credits is it?
 Two credits S/U.
 
+## What's the grading policy?
+Attendance - 20% (can miss 1 of 10 lectures without penalty)
+Filling out Feedback - 5%
+Final project - 25%
+Assignments - 50%
+Keep in mind that you only need a C- (70) or higher to pass. If you ever feel that you are falling behind, please feel free to talk to us and we will try our best to find a solution. You can reach us at acb352@cornell.edu.
+
 ## Policies
 ### Academic Integrity
 As a programming course, you may find yourself in a position to copy or appropriate code that someone else has written. Please cite any code or media that you do not have direct authorship of on any assignments submitted to the course. Code should receive a citation to the original author as a comment in your source code, while media citations (images, videos) should be visible on the page that they appear.
