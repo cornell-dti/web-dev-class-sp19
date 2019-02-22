@@ -8,7 +8,7 @@ Now closed.
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
 
 ## When are office hours?
-Mondays 6:30 - 7:30 PM in Rhodes 400
+Mondays 6:30-7:30 PM in Rhodes 400
 
 Tuesdays 3-4 PM in Rhodes 584
 
