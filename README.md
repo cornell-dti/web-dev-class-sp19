@@ -14,7 +14,7 @@ Tuesdays 3-4 PM in Rhodes 584
 
 Fridays 5-6 PM in Rhodes 584
 
-Note that office hours will usually not be held during breaks!
+If none of thehse times work, feel free to make a private note on Piazza and we will gladly try to find a time to meet with you! Note that office hours will usually not be held during breaks.
 
 ## Is there a lecture schedule?
 Yes!
