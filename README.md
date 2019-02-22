@@ -7,7 +7,14 @@ Now closed.
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
 
-## Is there a syllabus?
+## When are office hours?
+Monday 6:30 - 7:30 PM in Rhodes 400
+
+Tuesdays 3-4 PM in Rhodes 584
+
+Fridays 5-6 PM in Rhodes 584
+
+## Is there a lecture schedule?
 Yes!
 
 Lecture 1 2/20/19: Introduction
