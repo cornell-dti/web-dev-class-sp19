@@ -2,10 +2,10 @@
   text-align: center;
 }
 
-.contactCardStyle {
-  margin: auto;
+.ContactCard {
+  margin: 1em auto;
+  width: 300px;
+  padding: 4px;
   text-align: center;
   outline: 2px solid black;
-  width: 400px;
-  height: 200px;
 }

@@ -1,16 +1,13 @@
 import React, { Component } from 'react';
-import './App.css';
+import styles from './App.module.css';
 
 class ContactCard extends Component {
   render() {
+    const { name, email } = this.props;
     return (
-      <div className="contactCardStyle">
-        <h2>
-          {this.props.name}
-        </h2>
-        <p>
-          {this.props.email}
-        </p>
+      <div className={styles.ContactCard}>
+        <h4>{name}</h4>
+        <p>{email}</p>
       </div>
     );
   }
