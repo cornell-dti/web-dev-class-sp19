@@ -7,11 +7,11 @@ export default class DataDrivenApp extends Component {
     return (
       <div>
         {/* classic */}
-        {data.map(contact => <ContactCard name={contact.name} email={contact.email} />)}
+        {data.map(contact => <ContactCard key={contact.email} name={contact.name} email={contact.email} />)}
         {/* destructing */}
-        {/* data.map(({ name, email }) => <ContactCard name={name} email={email} />) */}
+        {/* data.map(({ name, email }) => <ContactCard key={email} name={name} email={email} />) */}
         {/* props spread */}
-        {/* data.map(contact => <ContactCard {...contact} />) */}
+        {/* data.map(contact => <ContactCard key={contact.email} {...contact} />) */}
       </div>
     )
   }

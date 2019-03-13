@@ -11,6 +11,6 @@ const data = [
     name: 'Sam Zhou',
     email: 'tz66@cornell.edu'
   },
-]
+];
 
 export default data;
