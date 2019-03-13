@@ -21,7 +21,7 @@ class Editor extends Component {
           <input type="text" placeholder="name" value={name} onChange={this.onNameChange} />
         </div>
         <div>
-          <input type="text" placeholder="email" value={email} onChange={this.onEmailChange} />
+          <input type="email" placeholder="email" value={email} onChange={this.onEmailChange} />
         </div>
       </div>
     );

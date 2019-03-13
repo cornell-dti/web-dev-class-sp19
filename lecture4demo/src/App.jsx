@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import SimpleApp from './SimpleApp';
 import DataDrivenApp from './DataDrivenApp';
 import ContactCardAdder from './ContactCardAdder';
+import SimpleEditor from './SimpleEditor';
 
 export default class App extends Component {
   render() {
@@ -17,7 +18,7 @@ export default class App extends Component {
         </div>
         <div>
           <h3>Simple Editor</h3>
-          <div>TODO</div>
+          <SimpleEditor />
         </div>
         <div>
           <h3>Complex Editor</h3>
