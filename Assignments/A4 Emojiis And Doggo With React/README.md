@@ -76,12 +76,12 @@ In your `App.js`/`App.jsx` file, you should use the `ContactCardList` in this wa
 const data = [{ name: 'Foo', email: 'Bar' }];
 
 /// ... somewhere inside the render method in class App
-<ContactCard data={data}>
+<ContactCardList data={data}>
 ```
 
 ### Debugging Exercises
 
-Fix the problems in `BrokenComponent.jsx`. There are two problems in total.
+Fix the problems in [BrokenComponent.jsx](./BrokenComponent.jsx). There are two problems in total.
 
 After you fixed the problems, include the fixed components in your website following the three
 components.
