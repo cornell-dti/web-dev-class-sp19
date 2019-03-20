@@ -3,12 +3,21 @@
   background-color: #d3d3d352;
   display: flex;
   justify-content: space-around;
-  height: 100vh
+  height: 100vh;
+
+}
+
+.AppNoComp {
+  text-align: center;
+  background-color: #d3d3d352;
+  height: 100vh;
+  padding-top: 1em;
 }
 
 .ContactCard {
   margin: 1em auto;
   width: 300px;
+  height: 100px;
   padding: 4px;
   text-align: center;
   outline: 2px solid black;

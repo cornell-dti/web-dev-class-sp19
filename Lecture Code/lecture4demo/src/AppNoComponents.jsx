@@ -20,8 +20,8 @@ class AppNoComponents extends Component {
     // <ContactCard name={"Justin Tran"} email={"jtt65@cornell.edu"}></ContactCard>
     // );
     return (
-      <div>
-        <div className={ styles.ContactCard }>
+      <div className={styles.AppNoComp}>
+        <div className={ styles.ContactCard } style={{marginTop: '0'}}>
           <h2>
             Justin Tran
           </h2>
@@ -38,7 +38,13 @@ class AppNoComponents extends Component {
           </p>
         </div>
         <div>
-          <input type="text" placeholder="name" value={this.state.inputVal} />
+          <input
+            type="text"
+            placeholder="name"
+            value={this.state.inputVal}
+            className={styles.InputBox}
+            style={{width: "20%"}}
+          />
           <button onClick={this.changeVal} />
         </div>
         <div>

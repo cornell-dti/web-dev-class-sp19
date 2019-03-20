@@ -21,7 +21,8 @@ export default class SimpleEditor extends Component {
           type="text"
           placeholder="Type your name..."
           value={name}
-          onChange={this.changeName} />
+          onChange={this.changeName}
+        />
       </div>
     );
   }
