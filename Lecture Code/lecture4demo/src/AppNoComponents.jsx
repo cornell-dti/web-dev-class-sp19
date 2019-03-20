@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import ContactCard from './ContactCard.jsx';
+import styles from './App.module.css';
+import ConditionalComponent from './ConditionalComponent';
 import './App.module.css';
 
 class AppNoComponents extends Component {
@@ -19,7 +21,7 @@ class AppNoComponents extends Component {
     // );
     return (
       <div>
-        <div className="ContactCard">
+        <div className={ styles.ContactCard }>
           <h2>
             Justin Tran
           </h2>
@@ -27,7 +29,7 @@ class AppNoComponents extends Component {
             jtt65@cornell.edu
           </p>
         </div>
-        <div className="ContactCard">
+        <div className={ styles.ContactCard }>
           <h2>
             Aram Baghdassarian
           </h2>
@@ -38,6 +40,10 @@ class AppNoComponents extends Component {
         <div>
           <input type="text" placeholder="name" value={this.state.inputVal} />
           <button onClick={this.changeVal} />
+        </div>
+        <div>
+          <h3>Conditional Rendering</h3>
+          <ConditionalComponent />
         </div>
       </div>
     );
