@@ -45,7 +45,7 @@ class AppNoComponents extends Component {
             className={styles.InputBox}
             style={{width: "20%"}}
           />
-          <button onClick={this.changeVal} />
+          <button onClick={this.changeVal} >Change Value!</button>
         </div>
         <div>
           <h3>Conditional Rendering</h3>
