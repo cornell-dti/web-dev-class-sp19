@@ -3,13 +3,14 @@ import SimpleApp from './SimpleApp';
 import DataDrivenApp from './DataDrivenApp';
 import ContactCardAdder from './ContactCardAdder';
 import SimpleEditor from './SimpleEditor';
+import styles from './App.module.css'
 
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div className={styles.App} >
         <div>
-          <h3>Simple</h3>
+          <h3 style={{marginTop: '0', paddingTop: '1em'}}>Simple</h3>
           <SimpleApp />
         </div>
         <div>

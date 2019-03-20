@@ -1,11 +1,42 @@
 .App {
   text-align: center;
+  background-color: #d3d3d352;
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+
+}
+
+.AppNoComp {
+  text-align: center;
+  background-color: #d3d3d352;
+  height: 100vh;
+  padding-top: 1em;
 }
 
 .ContactCard {
   margin: 1em auto;
   width: 300px;
+  height: 100px;
   padding: 4px;
   text-align: center;
   outline: 2px solid black;
 }
+
+.Input {
+  text-align: center;
+  margin: 1em auto;
+  padding: 1em;
+}
+
+.InputBox {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
