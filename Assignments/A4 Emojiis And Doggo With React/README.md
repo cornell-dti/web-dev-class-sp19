@@ -36,8 +36,8 @@ This component should have a text input and a submit button.
 
 When the submit button is clicked, the text from this input is sent to the doggo-translator library.
 
-You will use the [node-emoji](https://www.npmjs.com/package/node-emoji) library to search for an
-emoji, and show it to the user if it is the valid name of an emoji.
+The output of the [doggo-translator](https://www.npmjs.com/package/doggotranslator) is shown in the
+front-end, along with a dog emoji (your pick on which dog emoji!)
 
 #### Pet/Animal
 
