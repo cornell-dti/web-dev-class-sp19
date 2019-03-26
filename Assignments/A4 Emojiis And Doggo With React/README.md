@@ -25,8 +25,8 @@ This component allows users to search for emojis and embed them in your React ap
 
 This searching should occur in real time, without needing to press a button.
 
-You will use the `node-emoji` library to search for an emoji, and show it to the user if it is the
-valid name of an emoji.
+You will use the [node-emoji](https://www.npmjs.com/package/node-emoji) library to search for an
+emoji, and show it to the user if it is the valid name of an emoji.
 
 If there is not a valid emoji for the input query, tell the user that their query was invalid.
 
@@ -36,8 +36,8 @@ This component should have a text input and a submit button.
 
 When the submit button is clicked, the text from this input is sent to the doggo-translator library.
 
-The output of the doggo-translator is shown in the front-end, along with a dog emoji
-(your pick on which dog emoji!)
+The output of the [doggo-translator](https://www.npmjs.com/package/doggotranslator) is shown in the
+front-end, along with a dog emoji (your pick on which dog emoji!)
 
 #### Pet/Animal
 
@@ -76,12 +76,12 @@ In your `App.js`/`App.jsx` file, you should use the `ContactCardList` in this wa
 const data = [{ name: 'Foo', email: 'Bar' }];
 
 /// ... somewhere inside the render method in class App
-<ContactCard data={data}>
+<ContactCardList data={data}>
 ```
 
 ### Debugging Exercises
 
-Fix the problems in `BrokenComponent.jsx`. There are two problems in total.
+Fix the problems in [BrokenComponent.jsx](./BrokenComponent.jsx). There are two problems in total.
 
 After you fixed the problems, include the fixed components in your website following the three
 components.
