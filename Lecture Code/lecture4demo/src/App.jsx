@@ -9,7 +9,7 @@ import FunctionalComponentExamples from './FunctionalComponentExamples';
 export default class App extends Component {
   render() {
     return (
-      <div className={styles.App} >
+      <div className={styles.App}>
         <div>
           <h3 style={{ marginTop: '0', paddingTop: '1em' }}>Simple</h3>
           <SimpleApp />

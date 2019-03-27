@@ -5,6 +5,7 @@ export default class SimpleEditor extends Component {
   state = { name: '' };
 
   changeName = (e) => {
+    // to extract the value from input box, use the following line.
     const name = e.currentTarget.value;
     this.setState({ name });
     // the above line is a short form of
@@ -17,7 +18,7 @@ export default class SimpleEditor extends Component {
     const { name } = this.state;
     return (
       <div>
-        <div>{(name) ? this.hello({ name }) : ''}</div>
+        <div>{name !== '' ? this.hello({ name }) : ''}</div>
         <input
           className={styles.InputBox}
           type="text"

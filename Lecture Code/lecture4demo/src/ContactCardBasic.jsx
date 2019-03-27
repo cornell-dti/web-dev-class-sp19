@@ -5,12 +5,8 @@ class ContactCardBasic extends Component {
   render() {
     return (
       <div className="contactCardStyle">
-        <h2>
-          {this.props.name}
-        </h2>
-        <p>
-          {this.props.email}
-        </p>
+        <h2>{this.props.name}</h2>
+        <p>{this.props.email}</p>
       </div>
     );
   }

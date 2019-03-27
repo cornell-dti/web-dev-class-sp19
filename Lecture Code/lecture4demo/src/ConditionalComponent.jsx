@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 export default class ConditionalComponent extends Component {
-  //state can be set without a constructor
+  // state can be set without a constructor
   state = { display: true };
 
   changeDisplayState = (e) => {
     this.setState({ display: !this.state.display });
-  }
+  };
 
   render() {
     return (

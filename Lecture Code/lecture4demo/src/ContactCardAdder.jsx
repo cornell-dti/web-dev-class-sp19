@@ -4,15 +4,9 @@ import styles from './App.module.css'
 
 class Editor extends Component {
 
-  onNameChange = (e) => {
-    const { onNameChange } = this.props;
-    onNameChange(e.currentTarget.value);
-  };
+  onNameChange = e => this.props.onNameChange(e.currentTarget.value);
 
-  onEmailChange = (e) => {
-    const { onEmailChange } = this.props;
-    onEmailChange(e.currentTarget.value);
-  };
+  onEmailChange = e => this.props.onEmailChange(e.currentTarget.value);
 
   render() {
     const { name, email } = this.props;
