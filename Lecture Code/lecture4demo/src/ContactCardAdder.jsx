@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ContactCard from './ContactCard';
+import styles from './App.module.css'
 
 class Editor extends Component {
 
@@ -16,12 +17,24 @@ class Editor extends Component {
   render() {
     const { name, email } = this.props;
     return (
-      <div>
+      <div className={styles.Input}>
         <div>
-          <input type="text" placeholder="name" value={name} onChange={this.onNameChange} />
+          <input
+            className={styles.InputBox}
+            type="text"
+            placeholder="Your name..."
+            value={name}
+            onChange={this.onNameChange}
+          />
         </div>
         <div>
-          <input type="email" placeholder="email" value={email} onChange={this.onEmailChange} />
+          <input
+            className={styles.InputBox}
+            type="email"
+            placeholder="Your email..."
+            value={email}
+            onChange={this.onEmailChange}
+          />
         </div>
       </div>
     );
