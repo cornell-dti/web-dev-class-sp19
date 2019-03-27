@@ -4,7 +4,6 @@ import ConditionalComponent from './ConditionalComponent';
 import './App.module.css';
 
 class AppNoComponents extends Component {
-    super(props);
   state = { inputVal: 'dummy' }
 
   changeVal = () => this.setState({ inputVal: Date.now() });
