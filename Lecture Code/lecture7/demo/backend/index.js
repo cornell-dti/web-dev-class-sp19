@@ -31,6 +31,18 @@ app.get('/post', async (_, resp) => {
   resp.status(200).json(allPostsDoc.docs.map(doc => ({ id: doc.id, ...doc.data() })));
 });
 
+app.get('/post/today', async (_, resp) => {
+  const today = new Date();
+  const todayString = `${today.getFullYear()}-${1 + today.getMonth()}-${today.getDate()}`;
+  const todayPostsDoc = await postsCollection.where('date', '==', todayString).get();
+  resp.status(200).json(todayPostsDoc.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+});
+
+app.get('/post/sorted', async (_, resp) => {
+  const sortedPosts = await postsCollection.orderBy('date', 'desc').get();
+  resp.status(200).json(sortedPosts.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+});
+
 // update a post
 app.post('/post/:id', async (req, resp) => {
   const postId = req.params['id'];

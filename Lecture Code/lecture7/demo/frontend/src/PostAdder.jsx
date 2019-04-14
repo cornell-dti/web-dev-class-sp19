@@ -8,7 +8,8 @@ export default class PostAdder extends Component {
   contentChange = e => this.setState({ content: e.currentTarget.value });
 
   submitClicked = () => {
-    const date = new Date().toDateString();
+    const d = new Date();
+    const date = `${d.getFullYear()}-${1 + d.getMonth()}-${d.getDate()}`;
     const { addPost } = this.props;
     const { author, content } = this.state;
     addPost({ author, date, content });
