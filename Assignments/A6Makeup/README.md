@@ -18,7 +18,7 @@ Submit, to CMS, a zip file that contains these things:
 
 ### Backend
 
-You should only use `express` and `body-parser` to complete the backend code.
+You should only use `express`, `body-parser`, and `firebase-admin` to complete the backend code.
 
 Your backend should have two endpoints:
 
