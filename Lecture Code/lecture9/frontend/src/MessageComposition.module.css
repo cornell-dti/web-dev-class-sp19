@@ -1,0 +1,28 @@
+.Message {
+  margin-bottom: 1em;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.MessageContent {
+  padding: 0.5em;
+  border-bottom: 1px solid #ccc;
+}
+
+.CardActions {
+  padding: 0.5em;
+}
+
+.CardActions button {
+  color: #3e7ae2;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  margin: 0 0.5em;
+  padding: 5px;
+}
+
+.CardActions button:hover {
+  border-radius: 2px;
+  background-color: #3e7ae233;
+}

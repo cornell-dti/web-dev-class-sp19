@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 const List = ({ messages }) => <div>{messages.map(msg => <div>{msg}</div>)}</div>;
 
-class Adder extends Component {
+export class MessageAdder extends Component {
   state = { newMessage: '' };
 
   onNewMessageChange = (e) => this.setState({ newMessage: e.currentTarget.value });
@@ -34,7 +34,7 @@ export default class LiftingStateUp extends Component {
       <div>
         <h3>Lifting State Up</h3>
         <List messages={this.state.messages} />
-        <Adder onAdd={this.onAdd} />
+        <MessageAdder onAdd={this.onAdd} />
       </div>
     );
   }
