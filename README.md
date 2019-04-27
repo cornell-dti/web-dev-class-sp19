@@ -2,7 +2,7 @@
 [Cornell DTI](http://cornelldti.org/). Read our article about the first run of the course on [Medium](https://medium.com/cornell-design-tech-initiative/cornell-dti-trends-in-web-development-4cb5abc56776)!
 
 ## Course Application
-Now closed.
+Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSf7Mc6h4vOj0PBFMrXTDh0MNjWQ-yriBzDXB8DRNi09cLTGig/viewform?usp=sf_link).
 
 ## Introduction
 This class will teach students about modern web development technologies, practices, and industry standards to better equip them for academic work, research, interviews, internships, and full-time employment. 
@@ -75,6 +75,9 @@ Final project - 25%
 Assignments - 50%
 
 Keep in mind that you only need a C- (70) or higher to pass. If you ever feel that you are falling behind, please feel free to talk to us and we will try our best to find a solution. You can reach us at acb352@cornell.edu.
+
+## Who should I contact with questions?
+Email Aram, acb352@cornell.edu.
 
 ## Policies
 ### Academic Integrity
