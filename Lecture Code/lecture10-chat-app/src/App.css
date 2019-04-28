@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  align-content: left;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.card {
+  width: 400px;
+  margin: 1em auto;
+}
+
+body {
+  background: #e7e7e7;
+}
